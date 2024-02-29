@@ -1,8 +1,6 @@
 **Data Engineering Services**
 Data Engineering Services and Data Engineering Consulting Firm Amnet Digital takes a business-focused approach to data engineering to align analytics and technology. By leveraging modern techniques like fast cluster computing, you can maximize the value of your data assets. Create a foundation of data and transform extracted knowledge into insights for more informed and timely business decisions.
 
----
-
 *Data Pipelines*
 Automate the movement and transformation of data, eliminating manual intervention and reducing errors during data transportation. We assist in data source identification & verification, data ingestion, batch & streaming ingestion, data transformation using ETL or ELT, and data monitoring.
 

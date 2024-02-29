@@ -1,0 +1,21 @@
+**Amnet Digital's Products: Swift Insights and Swift Data**
+
+---
+
+**Swift Insights**
+
+*Let your data architect your business growth*
+
+*Description:* Swift Insights, an AI-driven platform, empowers businesses by transforming data into actionable insights. This innovative tool enables informed decision-making, helping businesses achieve and surpass their growth goals.
+
+---
+
+**Swift Data**
+
+*Accelerate your data migration or set up instant pipelines*
+
+*Description:* Swift Data, a cloud-first low-code data movement accelerator, facilitates efficient data migration and the instant setup of pipelines. With a focus on nimbleness and agility, Swift Data ensures high-quality data transfer from any source to target systems, streamlining data movement processes for enhanced business operations.
+
+---
+
+These products, Swift Insights and Swift Data, showcase Amnet Digital's commitment to simplifying analytics and data movement, providing businesses with powerful tools to drive growth and streamline data processes.

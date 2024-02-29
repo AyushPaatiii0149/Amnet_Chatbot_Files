@@ -1,0 +1,24 @@
+**Quality Assurance Services**
+We provide dedicated Quality Assurance services aligned with the latest agile, AI/ML, and Digital Transformation trends, offering end-to-end testing & report validation services. At Amnet Digital, we strive for quality shift left and high-grade deliverables with optimized Cost of Quality and significant Return on Investments.
+
+---
+
+*Functional Testing*
+Ensure verification and validation of applications against defined specifications to achieve absolute end-user acceptance. We support system testing, system integration testing (SIT), UAT testing, and regression testing.
+
+*Compatibility Testing*
+Ascertain if the developed product is adequate in a variety of environments like different operating systems, browsers, devices, networks, hardware, and versions. Ensure seamless rendering of the product across different platforms while minimizing bugs and errors, delivering the best user experience.
+
+*Performance Testing*
+Measure, verify, and validate the operational capabilities of the application or product, delivering superior performance under the most demanding load conditions. We assist in load testing, stress testing, endurance testing, volume testing, scalability testing, and monitoring server-side metrics.
+
+*Security Testing*
+Uncover vulnerabilities within your application, minimize the risks, and paradigm your code for superior quality assurance. We support network vulnerability assessment, cloud security testing, API security testing, and cross-site scripting.
+
+*Automation Testing*
+Design an automation strategy inline with business goals while leveraging test automation and CI/CD prowess for achieving quality at speed. We influence AI & ML algorithms for intelligent test case management and provide test suite optimization, log analytics, traceability matrix, defect analysis & remediation strategies, impact analysis, and thorough documentation.
+
+*Mobile Testing*
+Leverage accelerated mobile testing services extending your company's competitive advantage. We support functional testing, memory leak testing, memory assessment, app performance testing, usability testing, and compatibility testing. Also, test automation across different manufacturers, devices, networks, operating systems, and browsers.
+
+---

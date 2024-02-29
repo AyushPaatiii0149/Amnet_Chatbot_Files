@@ -1,0 +1,78 @@
+**AI & ML Services**
+We maintain a data-driven mindset throughout the engagement, whether in the strategy support phase or model development phase, focusing on the utilization of big data and machine learning by empowered business users. Our capabilities span from process automation to cognitive insight, culminating in systems that can work autonomously.
+
+---
+
+*Generative AI*
+Leverage Generative AI, Large Language Models (LLMs), Conversational AI, and ChatGPT to enhance customer and employee experiences. Deploy intelligent custom bots/virtual assistants for automation, digital self-service, and 24/7 customer support.
+
+*Statistical Analysis*
+Utilize data science capabilities using tools like Python, R, SAS for statistical analysis & modeling. Uncover patterns, trends, and convert data into valuable information and knowledge.
+
+*Visualizations*
+Integrate data from various sources, develop key metrics for faster decisions, and assist in data aggregation & management. Offer managed reporting, automated data reporting, dashboard development, and data visualization.
+
+*Anomaly Detection*
+Rapidly integrate data from different sources for key metrics. Assist in data aggregation, managed reporting, dashboard development, and visualization. Detect anomalies for proactive decision-making.
+
+*Competitor Analysis*
+Collect, curate, and provide actionable competitor insights. Combine external competitive data with internal company data for contextual insights, enhancing overall competitive positioning.
+
+*Conversational AI & Virtual Assistant*
+Implement intelligent chatbots for customer assistance. Develop custom virtual assistants using NLP and machine learning algorithms with features like multipronged NLP engine, flexible deployment, conversational intelligence, omnichannel platform, and extract insights through self-reporting dashboards.
+
+*Customer Churn Analysis*
+Identify high, medium, and low-risk customers. Use supervised learning methods for data gathering/analysis, attrition stage analysis, engagement & feedback analysis, customer classification, and retention strategies.
+
+*Customer Profile*
+Gain a holistic view of customer information for real-time research. Use machine learning clustering algorithms to profile and segment customers by purchases, experiences, behavior, firmographics, and more.
+
+*Customer Segmentation*
+Group customers based on observed similarities for improved customer service, loyalty, and retention. Use unsupervised learning methods to segment customers and customize sales & marketing efforts.
+
+*Customer Targeting*
+Target customers & prospects by leveraging supervised learning methods for improved cross-sell and up-sell opportunities. Analyze & select targeting type, create propensity models, devise targeted marketing strategies, and perform campaign effectiveness analysis.
+
+*Demand Forecasting*
+Understand patterns, trends, and seasonality in historical sales for predicting future demand. Leverage statistical time series algorithms for time dependency audits, repeating trends analysis, seasonal patterns anatomization, and impact analysis of special events.
+
+*Image Analytics*
+Derive insights from images using AutoML or pre-trained models. Offer text-in image detection, facial recognition, and object recognition.
+
+*Inventory Optimization*
+Maintain optimum inventory levels with product analysis, demand forecasting, financial model development, and outlier analysis.
+
+*Logistics Optimization*
+Optimize known and unpredictable variables to meet business requirements. Develop custom machine learning models for accurate forecasting, improving associate planning, and cost savings.
+
+*Market Basket Analysis*
+Understand items purchased together for cross-selling, optimizing pricing, and merchandizing decisions. Assist in loading data, defining parameters, embedding analytics engine, and generating reports for cross-selling at the customer level.
+
+*Price Optimization*
+Analyze demand, seasonality, operating costs & other KPIs to determine optimal prices for products. Enable price optimization with data gathering/analysis, intent analysis, anomalies detection, model generation, and scheduled price updates.
+
+*Product Bundling*
+Identify patterns in transaction data for decisions related to marketing, sales, inventory management, etc. Pre-process data, apply association rule mining to understand product bundles that sell best together.
+
+*Recommendation Engine*
+Understand customer purchase patterns, interests, preferences, and similarities with other users. Build customized recommendation engines with data gathering/analysis, similarity analysis, product categorization, and product ranking.
+
+*Smart Routing*
+Reduce handling delays, prevent crises, and prioritize issues with intelligent information routing. Analyze topics, sentiment, and customer behavior to build algorithms for precise classification & routing of content.
+
+*Social Media Analytics*
+Collect, analyze, and evaluate vast amounts of social media data for insights with descriptive, predictive, and prescriptive analytics. Support strategy development, tool identification, data gathering/analysis, and track metrics related to content, timing, audience, sentiments, and competitors.
+
+*Supply Chain Optimization*
+Improve efficiency of supply chain activities for accurate catering to customer demands. Optimize supply chain through demand forecasting, inventory management, preventive maintenance, quality inspections, production planning, and disruption handling.
+
+*ML Ops*
+Create reproducible workflows and machine learning models for easy deployment on any platform. Assist with the development of enterprise architecture to deploy and maintain all machine learning solutions with versioning and monitoring controls.
+
+*AutoML*
+Enable automation of ML pipeline flow without manual intervention. Assist in pre-processing and cleansing of data, construction of appropriate features, selection of model family, optimization of model hyperparameters, and post-processing of machine learning models.
+
+*Explainable AI*
+Identify model accuracy, fairness, transparency, outcomes, expected impact, and potential biases. Develop individualized models with robust and validated algorithms for an accountable and effective automated learning workflow, keeping data & models in sync.
+
+---

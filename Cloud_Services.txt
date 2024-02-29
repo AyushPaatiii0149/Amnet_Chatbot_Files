@@ -1,0 +1,24 @@
+**Cloud Services**
+We adopt a structured approach that offers the flexibility needed to unify your systems within an optimized environment that prioritizes the performance you want, yet at the lowest cost.
+
+---
+
+*Cloud Advisory Services*
+Craft a comprehensive cloud transformation roadmap and deploy a strategy that aids your current and upcoming business-critical objectives. We offer analysis of existing applications providing insights for cloud suitability and readiness (assessment, analysis, strategy).
+
+*Cloud Migration Services*
+Achieve digital transformation and uncover growth opportunities with enhanced security and qualitative outputs. We support cloud migration discovery, analysis, strategy, planning, and cloud governance & management.
+
+*Cloud Integration*
+Connect your systems and applications for seamless data sharing and better connectivity in dynamic business environments. We support integration strategy development, incubation, implementation, maintenance, and enhancements.
+
+*Cloud Application Management*
+Effectively manage, package, and deploy applications across public & private cloud computing platforms with maximum interoperability. We support forecasting & trends reporting, risk evaluation & reporting, remediation strategies, spend optimization, disaster recovery, automation, and DevOps.
+
+*Hybrid Cloud*
+Connect on-premise private cloud services and third-party public cloud into a unique, flexible infrastructure to efficiently run the applications and loads of the organization. Choose optimal cloud for each application or load enabling functioning that is seamless and cost-efficient compared to selecting a public or private cloud alone.
+
+*Security Assessment and Planning*
+Continuously supervise and assess cloud assets and resources for misconfigurations and unusual deployments. We support current state assessment, application assessment cloud security enhancements, continuous security monitoring, insight & threat reporting, and DevOps protection.
+
+---

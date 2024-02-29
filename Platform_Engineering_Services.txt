@@ -1,8 +1,6 @@
 **Platform Engineering Services**
 We are a proven provider of platform engineering services specializing in the design & development of digital experiences. Our experts blend the latest in technology, development methods, and tools to deliver bespoke solutions that fit perfectly into your business and elevate your brand’s engagement with your customers.
 
----
-
 *Application Engineering*
 Design, develop & maintain highly complex software applications with industry-standard best practices to deliver reliable, efficient, and cost-effective solutions. We support custom application software development, application modernization, legacy application migration, eCommerce applications, omnichannel applications, enterprise integration & microservices while leveraging AI, ML, business analytics, and data science.
 

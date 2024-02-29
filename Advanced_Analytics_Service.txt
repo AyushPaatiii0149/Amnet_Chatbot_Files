@@ -1,8 +1,6 @@
 **Advanced Analytics Services**
 Our proven experience in delivering analytics solutions to enterprises can help your business gain a competitive advantage. We can contribute in a crucial role to formulate the ways to improve business operations and make smart business decisions that result in the best return on investments.
 
----
-
 *Complex Event Processing*
 Discover hard-to-find opportunities or threats from high-volume, rapidly occurring data spanning departments and different sources to achieve high operational intelligence. We help you define, manage, and predict events, situations, exceptional conditions, opportunities, and threats in complex, heterogeneous networks.
 

@@ -1,8 +1,6 @@
 **AI & ML Services**
 We maintain a data-driven mindset throughout the engagement, whether in the strategy support phase or model development phase, focusing on the utilization of big data and machine learning by empowered business users. Our capabilities span from process automation to cognitive insight, culminating in systems that can work autonomously.
 
----
-
 *Generative AI*
 Leverage Generative AI, Large Language Models (LLMs), Conversational AI, and ChatGPT to enhance customer and employee experiences. Deploy intelligent custom bots/virtual assistants for automation, digital self-service, and 24/7 customer support.
 
@@ -74,5 +72,4 @@ Enable automation of ML pipeline flow without manual intervention. Assist in pre
 
 *Explainable AI*
 Identify model accuracy, fairness, transparency, outcomes, expected impact, and potential biases. Develop individualized models with robust and validated algorithms for an accountable and effective automated learning workflow, keeping data & models in sync.
-
 ---

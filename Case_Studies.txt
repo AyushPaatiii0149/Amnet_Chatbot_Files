@@ -1,6 +1,5 @@
 **Case Studies at Amnet Digital**
-
----
+Case Studies done by Amnet Digital are as follows: 
 
 **Propensity Modelling & Recommendation System**
 
@@ -10,36 +9,27 @@
 
 *Benefits Observed:* Improved sales execution, cross-sell/up-sell opportunities, optimized resource usage, enhanced campaign effectiveness, reduced costs, and intelligent pricing.
 
----
-
 **Preventive Maintenance**
-
 *Requirement:* Develop an automated process to monitor sensor data, predict downtime/faults, and raise tickets ahead of time.
 
 *Solution Approach:* Developed classification and regression models using IoT sensor data.
 
 *Benefits Observed:* Minimized downtimes, increased customer satisfaction, reduced losses, and maximized asset lifetime.
 
----
-
 **Virtual Shopping Assistant**
-
 *Requirement:* Create a virtual shopping assistant for intuitive product discovery across retail, eCommerce, and healthcare.
 
 *Solution Approach:* Used Conversational AI and Visual Search with deep learning techniques like Encoder-Decoder models, RNNs, deep Seq-2-Seq models, deep CNN for image tagging, and open CV\CNN classification for visual search.
 
 *Benefits Observed:* Enhanced customer shopping experience, personalized loyalty programs, resulting in improved sales and customer loyalty.
 
----
-
 **Risk Analytics**
-
 *Requirement:* Automate lending process, credit checks, design alerts, identify high-risk customers, screen risky deals, simulate portfolios, and evaluate potential trade impacts.
 
 *Solution Approach:* Developed classification models using machine learning techniques like deep learning, random forest, and XGBoost.
 
 *Benefits Observed:* Reduced risk of loss, increased interest incomes, lowered sales and operating costs, reduced costs associated with risk mitigation, and improved capital efficiency.
 
----
-
 These case studies showcase Amnet Digital's expertise in leveraging advanced technologies to address diverse business challenges and drive positive outcomes.
+
+---

@@ -1,8 +1,6 @@
 **Data Management Services**
 Our data management services span a wide range of business capabilities around data quality management. We help businesses create robust data management solutions that capture the most critical information within your organization, 'master data', and create a single source of truth.
 
----
-
 *Data Architecture Management*
 Build a robust enterprise data architecture and consolidate disparate warehouses into a single unified warehouse that reduces the total cost of ownership. We help in defining an enterprise data model, conducting value chain analysis, and developing and maintaining data architecture.
 

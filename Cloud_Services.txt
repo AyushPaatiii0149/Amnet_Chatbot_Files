@@ -1,8 +1,6 @@
 **Cloud Services**
 We adopt a structured approach that offers the flexibility needed to unify your systems within an optimized environment that prioritizes the performance you want, yet at the lowest cost.
 
----
-
 *Cloud Advisory Services*
 Craft a comprehensive cloud transformation roadmap and deploy a strategy that aids your current and upcoming business-critical objectives. We offer analysis of existing applications providing insights for cloud suitability and readiness (assessment, analysis, strategy).
 

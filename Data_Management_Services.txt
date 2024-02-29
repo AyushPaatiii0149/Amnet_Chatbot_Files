@@ -1,5 +1,15 @@
 **Data Management Services**
 Our data management services span a wide range of business capabilities around data quality management. We help businesses create robust data management solutions that capture the most critical information within your organization, 'master data', and create a single source of truth.
+It include different sub-services they are:
+1. Data Architecture Management
+2. Data Development
+3. Data Governance
+4. Data Operations Management
+5. Data Quality Management
+6. Data Warehousing and Business Intelligence
+7. Document and Content Management
+8. Meta-data Management
+9. Reference and Master Data Management
 
 *Data Architecture Management*
 Build a robust enterprise data architecture and consolidate disparate warehouses into a single unified warehouse that reduces the total cost of ownership. We help in defining an enterprise data model, conducting value chain analysis, and developing and maintaining data architecture.
@@ -27,5 +37,3 @@ Define a central metadata management strategy to ensure accurate data interpreta
 
 *Reference and Master Data Management*
 Craft and manage a central repository of your data assets to analyze risks, predict churn, detect fraud, enhance security & privacy, and administer accurate reporting and regulatory compliance. We support MDM & data quality management, multi-domain mastering, reference data management, data integration & synchronization, operational management (stewardship & authoring), and dimension management.
-
----

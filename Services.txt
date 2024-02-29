@@ -1,19 +1,13 @@
 **Technology Services**
 We blend our knowledge of diverse business domains and deep expertise in Data Management, AI/ML and Advanced Analytics to solve complex business problems.
-
----
-
-**Our Services**
-
-*AI & ML Services*
-*Data Engineering*
-*Data Annotation*
-*Data Management*
-*Cloud Services*
-*Platform Engineering*
-*Quality Assurance*
-*Advanced Analytics*
-*User Experience*
-*Strategy & Consulting*
-
----
+Services Provided by Amnet Digital are as follows
+1. *AI & ML Services*
+2. *Data Engineering*
+3. *Data Annotation*
+4. *Data Management*
+5. *Cloud Services*
+6. *Platform Engineering*
+7. *Quality Assurance*
+8. *Advanced Analytics*
+9. *User Experience*
+10. *Strategy & Consulting*

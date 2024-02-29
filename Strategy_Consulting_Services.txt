@@ -1,7 +1,10 @@
 **Strategy & Consulting Services**
 The era of the standalone digital project is over. We can help you create solutions that influence your whole organization. Digital powers virtually every move a company makes. Analytics informs every high-stakes decision. And emerging technologies offer a huge advantage to companies that adopt them first. We help you bring all this together, infusing every project with a set of digital capabilities that focus on fulfilling your strategy.
-
----
+It include different sub-services they are:
+1. Data Strategy
+2. AI Strategy
+3. Application Development
+4. AI Customization
 
 *Data Strategy*
 Enhance data visibility, sharing, and combination while incorporating data visualization/tracking methods like analytics and tracking. We support data strategy, data quality audit, data governance & operating model, data analytics, data visualization, and data ecosystem setup.
@@ -14,5 +17,3 @@ Develop scalable, secure, and reliable applications that address complex busines
 
 *AI Customization*
 Implement custom artificial intelligence solutions to extract untapped value from vast amounts of data, boosting productivity and revenue. We assist in business analysis & solution identification, AI development & implementation, and end-to-end support and maintenance.
-
----

@@ -1,5 +1,15 @@
 **Advanced Analytics Services**
 Our proven experience in delivering analytics solutions to enterprises can help your business gain a competitive advantage. We can contribute in a crucial role to formulate the ways to improve business operations and make smart business decisions that result in the best return on investments.
+It include different sub-services they are:
+1. Complex Event Processing
+2. Deep Learning
+3. Graph Analysis
+4. NLP (Natural Language Processing)
+5. Pattern Matching
+6. Sentiment Analysis
+7. Semantic Analysis
+8. Simulation
+9. Text Mining
 
 *Complex Event Processing*
 Discover hard-to-find opportunities or threats from high-volume, rapidly occurring data spanning departments and different sources to achieve high operational intelligence. We help you define, manage, and predict events, situations, exceptional conditions, opportunities, and threats in complex, heterogeneous networks.
@@ -27,5 +37,3 @@ Create detailed and robust use cases to train or test artificial intelligence mo
 
 *Text Mining*
 Enable retrieval of highly specified content from unstructured text to provide meaningful connections between unstructured text and structured data. We support advanced discovery & search, document classification, keyword analysis, citation detection, content recommendation, and sentiment analysis.
-
----

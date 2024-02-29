@@ -1,5 +1,10 @@
 **Platform Engineering Services**
 We are a proven provider of platform engineering services specializing in the design & development of digital experiences. Our experts blend the latest in technology, development methods, and tools to deliver bespoke solutions that fit perfectly into your business and elevate your brand’s engagement with your customers.
+It include different sub-services they are:
+1. Application Engineering
+2. Infrastructure
+3. Payment Gateways
+4. DevOps & AIMLOps
 
 *Application Engineering*
 Design, develop & maintain highly complex software applications with industry-standard best practices to deliver reliable, efficient, and cost-effective solutions. We support custom application software development, application modernization, legacy application migration, eCommerce applications, omnichannel applications, enterprise integration & microservices while leveraging AI, ML, business analytics, and data science.
@@ -12,5 +17,3 @@ Develop or integrate creative and custom payment gateways with maximum security 
 
 *DevOps & AIMLOps*
 Improve agility & flexibility of your infrastructure with DevOps and automate the path from development to production with AIMLOps. Predict the effect of deployment on production and automatically respond to changes based on the performance of the production environment.
-
----

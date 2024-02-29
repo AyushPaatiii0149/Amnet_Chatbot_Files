@@ -1,5 +1,12 @@
 **Cloud Services**
 We adopt a structured approach that offers the flexibility needed to unify your systems within an optimized environment that prioritizes the performance you want, yet at the lowest cost.
+It include different sub-services they are:
+1. Cloud Advisory Services
+2. Cloud Migration Services
+3. Cloud Integration
+4. Cloud Application Management
+5. Hybrid Cloud
+6. Security Assessment and Planning
 
 *Cloud Advisory Services*
 Craft a comprehensive cloud transformation roadmap and deploy a strategy that aids your current and upcoming business-critical objectives. We offer analysis of existing applications providing insights for cloud suitability and readiness (assessment, analysis, strategy).
@@ -18,5 +25,3 @@ Connect on-premise private cloud services and third-party public cloud into a un
 
 *Security Assessment and Planning*
 Continuously supervise and assess cloud assets and resources for misconfigurations and unusual deployments. We support current state assessment, application assessment cloud security enhancements, continuous security monitoring, insight & threat reporting, and DevOps protection.
-
----

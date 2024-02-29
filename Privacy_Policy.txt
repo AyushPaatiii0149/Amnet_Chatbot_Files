@@ -14,7 +14,6 @@ Amnet Digital prioritizes the security of your personal data, adhering to data p
 Amnet Digital collects only necessary information for personalized web experiences, excluding sensitive details like credit card information. Data is obtained through user interactions, website visits, and indirectly through referrals, reselling partners, or authentication service providers.
 
 **Purposes for Data Usage:**
-
 *Amnet Digital’s Legitimate Interest:*
 Processing data for inquiries, meetings, and demos. For clients, suppliers, or partners, information is used to develop business relations, provide services, and comply with regulations.
 

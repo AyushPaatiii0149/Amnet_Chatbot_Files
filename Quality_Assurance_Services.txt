@@ -1,7 +1,12 @@
 **Quality Assurance Services**
 We provide dedicated Quality Assurance services aligned with the latest agile, AI/ML, and Digital Transformation trends, offering end-to-end testing & report validation services. At Amnet Digital, we strive for quality shift left and high-grade deliverables with optimized Cost of Quality and significant Return on Investments.
-
----
+It include different sub-services they are:
+1. Functional Testing
+2. Compatibility Testing
+3. Performance Testing
+4. Security Testing
+5. Automation Testing
+6. Mobile Testing
 
 *Functional Testing*
 Ensure verification and validation of applications against defined specifications to achieve absolute end-user acceptance. We support system testing, system integration testing (SIT), UAT testing, and regression testing.
@@ -20,5 +25,3 @@ Design an automation strategy inline with business goals while leveraging test a
 
 *Mobile Testing*
 Leverage accelerated mobile testing services extending your company's competitive advantage. We support functional testing, memory leak testing, memory assessment, app performance testing, usability testing, and compatibility testing. Also, test automation across different manufacturers, devices, networks, operating systems, and browsers.
-
----

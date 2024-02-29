@@ -1,5 +1,30 @@
 **AI & ML Services**
 We maintain a data-driven mindset throughout the engagement, whether in the strategy support phase or model development phase, focusing on the utilization of big data and machine learning by empowered business users. Our capabilities span from process automation to cognitive insight, culminating in systems that can work autonomously.
+It include different sub-services they are:
+1. Generative AI
+2. Statistical Analysis
+3. Visualizations
+4. Anomaly Detection
+5. Competitor Analysis
+6. Conversational AI & Virtual Assistant
+7. Customer Churn Analysis
+8. Customer Profile
+9. Customer Segmentation
+10. Customer Targeting
+11. Demand Forecasting
+12. Image Analytics
+13. Inventory Optimization
+14. Logistics Optimization
+15. Market Basket Analysis
+16. Price Optimization
+17. Product Bundling
+18. Recommendation Engine
+19. Smart Routing
+20. Social Media Analytics
+21. Supply Chain Optimization
+22. ML Ops
+23. AutoML
+24. Explainable AI
 
 *Generative AI*
 Leverage Generative AI, Large Language Models (LLMs), Conversational AI, and ChatGPT to enhance customer and employee experiences. Deploy intelligent custom bots/virtual assistants for automation, digital self-service, and 24/7 customer support.
@@ -72,4 +97,3 @@ Enable automation of ML pipeline flow without manual intervention. Assist in pre
 
 *Explainable AI*
 Identify model accuracy, fairness, transparency, outcomes, expected impact, and potential biases. Develop individualized models with robust and validated algorithms for an accountable and effective automated learning workflow, keeping data & models in sync.
----

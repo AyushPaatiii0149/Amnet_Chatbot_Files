@@ -1,8 +1,6 @@
 **Data Annotation Services**
 At Amnet Digital, we combine our human-assisted approach with machine learning and provide you with the high-quality training data you need. Our image & video annotation, text annotation, speech/audio annotation services will give you the confidence to deploy your AI and ML models at scale.
 
----
-
 *Image Annotation*
 Leverage a human-assisted annotation approach to deliver higher quality data, guaranteeing an excellent machine learning experience. We support 2D and 3D bounding boxes, labeling, semantic segmentation, polygon, polyline, landmark & key point annotation.
 

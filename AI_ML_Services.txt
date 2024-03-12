@@ -1,4 +1,4 @@
-**AI & ML Services Provided by Amnet Digital**
+**AI ML Services Provided by Amnet Digital**
 We maintain a data-driven mindset throughout the engagement, whether in the strategy support phase or model development phase, focusing on the utilization of big data and machine learning by empowered business users. Our capabilities span from process automation to cognitive insight, culminating in systems that can work autonomously.
 It include different sub-services they are:
 *Generative AI*

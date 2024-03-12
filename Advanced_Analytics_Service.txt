@@ -1,39 +1,21 @@
-**Advanced Analytics Services**
+**Advanced Analytics Services Provided by Amnet Digital**
 Our proven experience in delivering analytics solutions to enterprises can help your business gain a competitive advantage. We can contribute in a crucial role to formulate the ways to improve business operations and make smart business decisions that result in the best return on investments.
 It include different sub-services they are:
-1. Complex Event Processing
-2. Deep Learning
-3. Graph Analysis
-4. NLP (Natural Language Processing)
-5. Pattern Matching
-6. Sentiment Analysis
-7. Semantic Analysis
-8. Simulation
-9. Text Mining
-
 *Complex Event Processing*
 Discover hard-to-find opportunities or threats from high-volume, rapidly occurring data spanning departments and different sources to achieve high operational intelligence. We help you define, manage, and predict events, situations, exceptional conditions, opportunities, and threats in complex, heterogeneous networks.
-
 *Deep Learning*
 Control the power of unstructured data such as images, text, and speech to give transformative use cases that leverage techniques like AI, image analysis, natural language processing, and more. We use layered algorithms for the models to draw conclusions similar to humans and assist in AI consulting, engineering, training, support, and custom software development.
-
 *Graph Analysis*
 Improve the efficiency of machine learning algorithms with pre-connected data in graph models, enabling relationships of numerous degrees of separation to be traversed and analyzed quickly at scale.
-
 *NLP (Natural Language Processing)*
 Understand, interpret, and process natural human language with advanced machine learning models to build products that understand your customers better. We integrate or build powerful NLP applications that let you gain actionable insights from vast unstructured data sets using artificial intelligence, machine learning, and linguistics.
-
 *Pattern Matching*
 Recognize and extract specific types of entities in sequences of data of some pattern among raw data or a sequence of tokens. We assist in the digitalization of historic & current documents and images to determine the existence of specified subjects.
-
 *Sentiment Analysis*
 Extract meaning from product or service reviews to better understand customers' opinions and sentiments about your company or its offerings. We offer analysis of data from a variety of media, such as social media, customer reviews, mass media including newspapers, television, and business data.
-
 *Semantic Analysis*
 Understand the context of natural language, detect emotions and extract valuable information from unstructured data, achieving human-level accuracy with machine learning algorithms. We aid in developing self-service reporting by providing a cleansed, understandable, trustworthy environment which can be used by business users.
-
 *Simulation*
 Create detailed and robust use cases to train or test artificial intelligence models for high accuracy. We expose AI models to a vast array of business scenarios resulting in optimized solutions.
-
 *Text Mining*
 Enable retrieval of highly specified content from unstructured text to provide meaningful connections between unstructured text and structured data. We support advanced discovery & search, document classification, keyword analysis, citation detection, content recommendation, and sentiment analysis.

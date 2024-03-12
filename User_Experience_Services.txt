@@ -1,23 +1,13 @@
-**User Experience Services**
+**User Experience Services Provided by Amnet Digital**
 Amnet Digital aims at designing products that deliver a positive experience by bridging the gap between stakeholder goals and user expectations. With an emotionally balanced human-centered approach, we empathize with the end users and leverage effective user-centric design techniques delivering the best experience for your users across all touchpoints of your business!
 It include different sub-services they are:
-1. Design Thinking
-2. User Research & Analysis
-3. Experience & Interaction Design
-4. Rapid Prototyping & Visual Design
-5. Usability Testing
-
 *Design Thinking*
 An iterative approach to recognize patterns and construct ideas that are meaningful and intuitive. We apply design thinking techniques across disciplines to match people's needs and provide solutions to formulate effective business strategies resulting in sustainable service models.
-
 *User Research & Analysis*
 Thoroughly understand customer behavior, attitude, needs, and pain points to deliver effective, optimized, and customer-centric solutions that produce tangible results. We adopt a user-centered approach and identify gaps in process & data to deliver an in-depth solution analysis for building world-class products or solutions.
-
 *Experience & Interaction Design*
 Meld usable interfaces which are mobile-friendly with equally powerful back-end architectures that result in robust and scalable solutions that ensure a dynamic experience for users. Our design approach is outcome-driven - to produce outcomes that fulfill user expectations and differentiate you from the competition.
-
 *Rapid Prototyping & Visual Design*
 An accelerated and iterative approach to develop system mock-ups, giving potential end-users or stakeholders a feel for the final product before moving towards full-scale production. We incorporate real data and add as many interactions/micro-interactions in the prototype for testing to avoid any uncertainties & gaps early in the product roadmap saving time and money.
-
 *Usability Testing*
 Optimize the products or solutions for the best in-class user experience improving customer loyalty & life. We craft a detailed testing plan that includes A/B testing & exception handling scenarios and conduct remote or in-person usability tests to understand how users feel and engage with your newly designed or existing products or solutions.

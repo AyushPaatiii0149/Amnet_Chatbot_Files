@@ -1,6 +1,6 @@
-**Technology Services**
+**All Different types of Services Provided by Amnet Digital**
 We blend our knowledge of diverse business domains and deep expertise in Data Management, AI/ML and Advanced Analytics to solve complex business problems.
-Services Provided by Amnet Digital are as follows
+All Services Provided by Amnet Digital are as follows:
 1. *AI & ML Services*
 2. *Data Engineering*
 3. *Data Annotation*

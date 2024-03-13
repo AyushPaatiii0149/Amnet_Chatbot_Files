@@ -11,3 +11,23 @@ All Services Provided by Amnet Digital are as follows:
 8. *Advanced Analytics*
 9. *User Experience*
 10. *Strategy & Consulting*
+
+- Within AI & ML Services, they offer sub-services such as Generative AI, Statistical Analysis, Market Basket Analysis, Customer Churn Analysis, Demand Forecasting, Image Analytics, ML Ops, etc.
+
+- Within Data Engineering, they offer sub-services such as Data Pipelines, Data Cleansing, Data Warehousing, Big Data, etc.
+
+- Within Data Annotation, they offer sub-services such as Image Annotation, Video Annotation, Audio Annotation, and Text Annotation.
+
+- Within Data Management, they offer sub-services such as Data Architecture Management, Data Development, Data Operations Management, Data Quality Management, etc.
+
+- Within Cloud Services, they offer sub-services such as Cloud Advisory Services, Cloud Migration Services, Hybrid Cloud, Security Assessment and Planning, etc.
+
+- Within Platform Engineering, they offer sub-services such as Application Engineering, Infrastructure, Payment Gateways, and DevOps & AIMLOps
+
+- Within Quality Assurance, they offer sub-services such as Functional Testing, Compatibility Testing, Performance Testing, Automation Testing, and Mobile Testing.
+
+- Within Advanced Analytics, they offer sub-services such as Complex Event Processing, Deep Learning, Graph Analysis, Sentiment Analysis, Simulation, etc.
+
+- Within User Experience, they offer sub-services such as Design Thinking, User Research & Analysis, Experience & Interaction Design, Rapid Prototyping & Visual Design, and Usability Testing.
+
+- Within Strategy & Consulting, they offer sub-services such as Data Strategy, AI Strategy, Application Development, and AI Customization.
